@@ -1,0 +1,11 @@
+@use "styles/variables.module.scss" as var;
+
+.container {
+  padding: 0 2rem;
+}
+
+.nexpress {
+  padding: 0 2rem;
+  background-color: var.$primary-color;
+  color: var.$white-color;
+}
